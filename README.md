@@ -1,7 +1,7 @@
 ### Hi there 👋
 New to commiting in Github<br>
  🌱 I’m currently learning Unreal Engin and ROS2<br>
-HTML, C, C++, Python<br>
+HTML, C, C++, Python, GO<br>
 Unity, Unreal<br>
 🤔🤔🤔🤔🤔🤔
  
